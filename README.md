@@ -1,4 +1,4 @@
-html<table>
+<table>
 <tr>
 <td width="65%" valign="top">
 
